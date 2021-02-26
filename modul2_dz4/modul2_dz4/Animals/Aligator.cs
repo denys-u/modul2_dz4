@@ -12,5 +12,11 @@ namespace modul2_dz4.Animals
             : base(animaltype, name, weight)
         {
         }
+
+        public override string Name => "Aligator";
+
+        public override AnimalType AnimalType => AnimalType.Reptilies;
+
+        public override Squad Squad => Squad.Predator;
     }
 }

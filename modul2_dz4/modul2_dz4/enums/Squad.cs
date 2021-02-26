@@ -8,6 +8,6 @@ namespace modul2_dz4.enums
     {
         Predator,
         Artiodactyls,
-        Rodent
+        Rodent,
     }
 }
